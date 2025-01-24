@@ -1,4 +1,3 @@
-package basic;
 //1. static method should be called through employe name but not throught object.
 //2.non static method cannot be called by static method.
 

@@ -1,5 +1,3 @@
-package basic;
-
 public class add_sub {
     private int a;
     private int b;
