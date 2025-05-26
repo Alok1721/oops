@@ -16,3 +16,8 @@ Design a system to manage drivers and their delivery schedules, calculating the 
 The cost should be computed efficiently, ideally by updating the total cost incrementally when deliveries are added, rather than recalculating it each time getTotalCost() is called.
 
 ---
+
+## Problem Statement:2
+--follow_up:
+**1.PayUptoTime(upToTime)**:settle the cost of all deliveries that end on or before the upToTime.and return the total cost settled.
+**2.getCostToPaid**: return total cost of deliveries that have not settled
